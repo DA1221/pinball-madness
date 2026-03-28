@@ -2,7 +2,8 @@
 A browser-based pinball game where you control levers to get as many points as you can!
 
 ## Play the Game
-- https://yourusername.github.io/repo-name/
+- https://da1221.itch.io/pinball-madness
+- https://da1221.github.io/pinball-madness/
 
 ## Features
 - Physics-based ball movement including gravity
